@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A victory obtained by Lieut: Gen: David Lesley, in the north of Scotland, against Colonell Hurrey and his forces; and the number killed and taken. Also, the declaration and resolution of the inhabitants of York-shire, Cumberland, Sunderland, and the bishoprick of Durham, for the Parliament of England; and the desires of the English army in the north, touching Scotland. Together, with the further proceedings of the Treaty at Breda, the sending of a message to the Emperour of Germany and the Duke of Saxony, by Captain Swan, with an answer thereunto, in relation to the affairs of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89120</idno>
+            <idno type="STC">Wing M1963</idno>
+            <idno type="STC">Thomason E600_10</idno>
+            <idno type="STC">ESTC R206394</idno>
+            <idno type="EEBO-CITATION">99865554</idno>
+            <idno type="PROQUEST">99865554</idno>
+            <idno type="VID">165619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165619)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E600[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A victory obtained by Lieut: Gen: David Lesley, in the north of Scotland, against Colonell Hurrey and his forces; and the number killed and taken. Also, the declaration and resolution of the inhabitants of York-shire, Cumberland, Sunderland, and the bishoprick of Durham, for the Parliament of England; and the desires of the English army in the north, touching Scotland. Together, with the further proceedings of the Treaty at Breda, the sending of a message to the Emperour of Germany and the Duke of Saxony, by Captain Swan, with an answer thereunto, in relation to the affairs of England.</title>
+                  <author>Michel, Peter, fl. 1648-1650.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Peter Michel.</note>
+                  <note>Annotation on Thomason copy: "May. 9.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newark, David Leslie, --  Baron, d. 1682 --  Early works to 1800.</term>
+               <term>Urry, John, --  Sir, d. 1650 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165619:1" rendition="simple:additions"/>
+            <p>A VICTORY <hi>OBTAINED</hi> By Lieut: Gen: David Leſley, In the
+North of <hi>Scotland,</hi> againſt Colonell <hi>Hurrey</hi> and his forces;
+and the number killed and taken.</p>
+            <p>ALSO, The Declaration and Reſolution of the Inhabitants of
+<hi>York-ſhire, Cumberland, Sunderland,</hi> and the Biſhoprick of
+<hi>Durham,</hi> for the Parliament of <hi>England;</hi> And the deſires of
+the <hi>Engliſh</hi> Army in the North, touching <hi>Scotland.</hi>
+            </p>
+            <p>TOGETHER, With the further proceedings of the Treaty at
+<hi>Breda,</hi> the ſending of a Meſſage to the Emperour of
+<hi>Germany</hi> and the Duke of <hi>Saxony,</hi> by Captain <hi>Swan,</hi>
+with an Anſwer thereunto, in relation to the affairs of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert Wood.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:165619:2"/>
+            <pb n="1" facs="tcp:165619:2"/>
+            <head>A Victory obtained by Lieutenant Generall <hi>David
+Leſley,</hi> in the North of <hi>Scotland;</hi> against Colonell
+<hi>Hurrey</hi> and his forces, and the number killed and taken.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am ſo much your Servant, that I muſt wait upon you, and
+attend the motion of your perſonall reſidence; and though my Letters are
+long ere they arrive, yet I hope at laſt they will have the ho<g ref="char:EOLhyphen"/>nour to
+kiſſe your hand; and I beſeech you permit them ſo to do, and with as
+much affection as is poſ<g ref="char:EOLhyphen"/>ſible, from a perſon whom you have ſuffered to
+be acquainted with your worth, and have ſo infinitely obliged; which makes me
+very unhappy, that I can neither ſay or do any thing accordingly. However,
+give me leave to entertain you with what is done on the other ſide of
+<hi>Tweed;</hi> which I here humbly repre<g ref="char:EOLhyphen"/>ſent, by communicating theſe
+enſuing lines to your tender object, and favourable conſtruction.</p>
+            <p>This morning, here arrived a Meſſenger from
+<hi>Scot<g ref="char:EOLhyphen"/>land,</hi> with ſeverall Letters to Gentlemen of quality in theſe
+parts, intimating the tranſaction of affairs between the Committee of
+Eſtates, Clergy, and Lai<g ref="char:EOLhyphen"/>ty; And amongſt the reſt, he makes mention of a
+<pb n="2" facs="tcp:165619:3"/>great blow given to <hi>Renegado
+Hurry</hi> (and his party) near <hi>Caithneſs,</hi> in the North of
+<hi>Scotland,</hi> the man<g ref="char:EOLhyphen"/>ner thus:</p>
+            <p>Sir <hi>John Hurrey</hi> (that grand <hi>Renegado-Artist</hi>)
+have<g ref="char:EOLhyphen"/>ing landed a conſiderable party, conſiſting of about 2000 horſe
+and foot, preſently endeavoured to leave no means unattempted, that might
+prove inſtrumen<g ref="char:EOLhyphen"/>tal for the carrying on of the royal intereſt and deſign,
+and likewiſe for the fomenting of new Commotions. The Committee of Eſtates
+timely fore-ſeeing the ſad event that might happen and enſue thereupon,
+forth<g ref="char:EOLhyphen"/>with reſolved to expedite a potent power againſt them; and
+accordingly gave inſtructions to Lieute<g ref="char:EOLhyphen"/>nant Generall <hi>David
+Leſley,</hi> to iſſue forth Orders for a generall Rendezvous of the
+horſe and foot in thoſe parts; to the end, he might ſpeedily take the
+field, and be in a poſture of oppoſition, to retard the Ene<g ref="char:EOLhyphen"/>mies farther
+march Southward: This being with ala<g ref="char:EOLhyphen"/>crity facilitated, the ſaid Lieutenant
+Generall took his march towards the North, and (as it is ſaid) on the 28 of
+<hi>April</hi> laſt, marched towards <hi>Caithneſs;</hi> the E<g ref="char:EOLhyphen"/>nemy having
+intelligence of their advance, muſtred up all his forces, and Colonell
+<hi>Hurrey</hi> (Commander in chief of that Brigade) having all his men in
+readineſſe, fell ſuddainly upon Generall <hi>Leſley</hi>'s men, and
+aſſault<g ref="char:EOLhyphen"/>ed them couragiouſly, but they being provided for them, gallantly
+reſiſted them, and forced them to re<g ref="char:EOLhyphen"/>treat: The firſt of this inſtant,
+the Lieutenant Ge<g ref="char:EOLhyphen"/>nerall having united all his forces together, gave com<g ref="char:EOLhyphen"/>mand
+to Colonell <hi>Humes</hi> to advance with a party of Horſe towards the
+Enemy, who according to Order, charged Colonell <hi>Hurrey</hi>'s horſe, and
+exchanged ſeve<g ref="char:EOLhyphen"/>rall vollies, and were received with great gallantry,
+<pb n="3" facs="tcp:165619:3"/>being moſt of them old Soldates, and
+well knew how to withſtand the fury of an enemy; but being at the laſt
+over-powred, they retreated to the next Re<g ref="char:EOLhyphen"/>ſerve, and Colonell <hi>Humes</hi>
+his men returned to their main Body. Within a while after, their Bodies
+joyn<g ref="char:EOLhyphen"/>ed, and the conflict grew very hot, which put them all in a great heat,
+notwithſtanding their being in a cold Climate. The victory ſeemed
+ſomewhat dubious for a while, for Colonell <hi>Hurrey</hi> and his men fought
+very gallantly, and for the ſpace of two hours very manfully maintained their
+groud, but (having not many horſe, and they being over-powred by Generall
+<hi>Leſley</hi>'s) were forced to deſert their foot; then Gene<g ref="char:EOLhyphen"/>rall
+<hi>Leſley</hi>'s men (upon routing of the horſe) ſud<g ref="char:EOLhyphen"/>dainly fell in
+among the foot, and by main force and violence broke their ranks, diſordering
+their Batta<g ref="char:EOLhyphen"/>lia, and putting all to the ſword that ſtood in op<g ref="char:EOLhyphen"/>poſition
+and defiance, which befell the <hi>Zwitzers</hi> in no ſmall number, for many
+of their fiery ſpirits de<g ref="char:EOLhyphen"/>nied quarter; but thoſe that deſired that
+martiall priviledge, had the ſame granted. In this great blow, (we hear) that
+the Lord <hi>Napier</hi> is wounded, and that <hi>Renegado Hurrey</hi> is taken
+priſoner, being very dangerouſly wounded; who is now like to ſing a
+moſt dolefull tune, to his ſeverall <hi>Changes.</hi> It is ve<g ref="char:EOLhyphen"/>ry credibly
+reported, that there were killed, rou<g ref="char:EOLhyphen"/>ted, and taken priſoners, two
+thouſand five hun<g ref="char:EOLhyphen"/>dred of the <hi>Hurronians,</hi> and that the aforeſaid
+Lieu<g ref="char:EOLhyphen"/>tenant Generall <hi>David Leſley,</hi> returned triumphant<g ref="char:EOLhyphen"/>ly with
+ſeverall trophees of his victory (having ta<g ref="char:EOLhyphen"/>ken all their armes and
+ammunition, and divers pri<g ref="char:EOLhyphen"/>ſoners) with the loſſe of about 300 men, and
+ſome 350 wounded.</p>
+            <pb n="4" facs="tcp:165619:4"/>
+            <p>The reſt of the Confederate-royaliſts in the North, (it's
+ſaid) are making what haſte poſſible they can towards the Mountains,
+and many diſcontented ſpi<g ref="char:EOLhyphen"/>rits (who ſeemed not a little active for the
+propa<g ref="char:EOLhyphen"/>gating and carrying on of the deſigne) begins now to ſing a ſong of
+<hi>Recantation;</hi> ſo that (it is believed) the <hi>flames</hi> are
+already quenched which began ſo vio<g ref="char:EOLhyphen"/>lently to break forth: notwithſtanding,
+the great talk of the Treaty at <hi>Breda</hi> for an Agreement, and new forces
+to be ſpeedily landed; for that goes on but ſlowly, and [perhaps] <hi>may
+be ended, when the Parlia<g ref="char:EOLhyphen"/>ments Army comes to</hi> Edenborough. The
+<hi>Scots</hi> know their [declared] King is young, neceſſitous, and with a
+<hi>divided-Councell,</hi> and are ſtedfaſtly reſolved to deal with him
+accordingly; for unleſſe he will come to their terms, <hi>he must expect
+nothing from them.</hi> Tru<g ref="char:EOLhyphen"/>ly (if I may tell you my thoughts) I conceive he is
+in a ſad condition; for the <hi>States</hi> are weary of his be<g ref="char:EOLhyphen"/>ing there,
+and the Prince of <hi>Orange</hi> ſits but looſe in the ſaddle himſelf,
+therefore the <hi>Scots</hi> are not to be diſcommended, in ſeeking to make
+good conditions.</p>
+            <p>Having given you a word or two of the Treaty, I ſhall preſent
+you with the lateſt Intelligence which we have received from
+<hi>Germany.</hi> The declared King of <hi>Scotland</hi> having ſent Captain
+<hi>Swan</hi> to the Emperor, as an Embaſſadour (and after to the Duke of
+<hi>Saxony</hi>) received this anſwer from the Emperour. That he condoled
+with him for his fathers death <hi>[and that with a great invective against the
+Parliament]</hi> withall telling him, the poor and unable condition that
+<hi>Germany</hi> was in; yet he promiſed to do his beſt, when the allyed
+Crowns, and Neighbours, and the united Provinces ſhould be a preſident, for
+he muſt regulate himſelf by <pb n="5" facs="tcp:165619:4"/>them. But
+it is believed, all their negotiations and ſubtle actings will be
+fruſtrated, and ſuddenly blaſted in the bud; for in <hi>Scotland</hi>
+they ſtill play <hi>fast and looſe,</hi> and good reaſon they have, for
+miſery is haſt<g ref="char:EOLhyphen"/>ning upon them, if they preſume to attempt ano<g ref="char:EOLhyphen"/>ther
+invaſion, which to prevent, the ſouldiery in theſe parts ſeem both
+unanimous and reſolved; being alſo ſeconded with an invitation from the
+well affect<g ref="char:EOLhyphen"/>ed in <hi>York-ſhire, Sunderland, Cumberland,</hi> and
+<hi>Dur<g ref="char:EOLhyphen"/>ham,</hi> who are reſolved to ſtand cloſe to them, for the
+preſervation of their Countries, lives, and liber<g ref="char:EOLhyphen"/>ties, againſt the force
+and violence of any invaders whatſoever; And declaring, That they will be
+obe<g ref="char:EOLhyphen"/>dient to the <hi>preſent Government,</hi> and give their utmoſt aid and
+aſſiſtance againſt all perſons whatſoever, that ſhall endeavour
+to aboliſh and extirpate the ſame: Yet notwithſtanding, many there are in
+theſe parts, who walk too much averſe to their ſteps, deſiring a
+change, &amp;c. As the daughters of <hi>Pelias</hi> King of
+<hi>Theſſa<g ref="char:EOLhyphen"/>ly</hi> did, who hearkning to the counſell and advice of
+<hi>Medea,</hi> ſuffered their old decrepit father to be boiled in a Chaldron
+with herbs, perſwading the people, <hi>that nothing was more available, for
+the reſtauration of him to his former youth.</hi> Even ſo, when
+<hi>ſelf-ended</hi> ſpirits, carry eloquence in the one hand, and
+ſubtilty in the other (under the pretence of <hi>Reformation in
+Govern<g ref="char:EOLhyphen"/>ment</hi>) they immediately cut the Commonwealth in pieces; as theſe
+turbulent ſpirits in theſe parts would do, who (by their fair eloquent
+deluſions, for <hi>Mo<g ref="char:EOLhyphen"/>narchy</hi>) endeavour to alienate and withdraw the
+hearts of the people, from their due obedience to the <hi>preſent
+Authority,</hi> and ſeeketh nothing more then the ruinating of the
+<hi>Preſervers of Englands Liberties,</hi> and <pb n="6" facs="tcp:165619:5"/>caſting
+all the fruit of their labours and indefatigable pains, into a Chaos and
+labyrinth of miſery. <hi>Sir,</hi> fearing that I have been too tedious, be
+pleaſed to excuſe him, who remains</p>
+            <closer>
+               <signed>
+                  <hi>Your obliged friend, to ſerve you:</hi> PETER
+MICHEL.</signed> 
+               <dateline>
+                  <hi>Kendall,</hi>
+                  <date>
+                     <hi>May</hi> 4. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>
+               <hi>Sir,</hi> I remain ſtill in the Regiment of renowned Major
+Generall <hi>Lambert,</hi> our horſe and foot have had a Rendezvous, and we
+expect [and hope] to croſſe the River <hi>Tweed</hi> very ſuddainly; the
+ſouldiery deſi<g ref="char:EOLhyphen"/>ring nothing more then to fight <hi>Jockey</hi> once again,
+be<g ref="char:EOLhyphen"/>cauſe he complains, that he cannot be ſatisfied, un<g ref="char:EOLhyphen"/>leſſe
+<hi>Berwick</hi> and <hi>Carliſle</hi> be ſurrendred to him; in lieu
+whereof, we are deſirous to give him a full and fi<g ref="char:EOLhyphen"/>nall payment, for the
+<hi>interest</hi> of them.</p>
+            <closer>
+               <signed>Yours, P. M.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
